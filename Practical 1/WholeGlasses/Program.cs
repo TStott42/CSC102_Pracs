@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Drip
+namespace WholeGlasses
 {
     class Program
     {
@@ -14,10 +14,9 @@ namespace Drip
 
             String dripString = Console.ReadLine();
             int dripInt = Convert.ToInt16(dripString);
+            int cups = Convert.ToInt16(Math.Floor((86400 / dripInt * 0.00025) * 4));
 
-            Console.WriteLine("This wastes " + (3600 / dripInt * 0.00025) + " litres per hour");
-            Console.WriteLine("This wastes " + (86400 / dripInt * 0.00025) + " litres per day");
-            Console.WriteLine("This wastes " + (604800 / dripInt * 0.00025) + " litres per week");
+            Console.WriteLine("This wastes " + cups + " cups per day");
 
             Console.Read();
         }

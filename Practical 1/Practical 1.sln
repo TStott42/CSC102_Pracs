@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drip", "Drip\Drip.csproj", "{115D47C2-6C91-49AC-B5C9-BCAAC7203D26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WholeGlasses", "WholeGlasses\WholeGlasses.csproj", "{EFE907BB-1353-4275-BFEE-809819A166F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{115D47C2-6C91-49AC-B5C9-BCAAC7203D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{115D47C2-6C91-49AC-B5C9-BCAAC7203D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{115D47C2-6C91-49AC-B5C9-BCAAC7203D26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE907BB-1353-4275-BFEE-809819A166F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE907BB-1353-4275-BFEE-809819A166F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE907BB-1353-4275-BFEE-809819A166F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE907BB-1353-4275-BFEE-809819A166F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
