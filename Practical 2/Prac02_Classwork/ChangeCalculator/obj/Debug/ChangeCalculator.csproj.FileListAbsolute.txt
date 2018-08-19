@@ -1,0 +1,7 @@
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\ChangeCalculator\bin\Debug\ChangeCalculator.exe.config
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\ChangeCalculator\bin\Debug\ChangeCalculator.exe
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\ChangeCalculator\bin\Debug\ChangeCalculator.pdb
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\ChangeCalculator\obj\Debug\ChangeCalculator.csproj.CoreCompileInputs.cache
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\ChangeCalculator\obj\Debug\ChangeCalculator.exe
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\ChangeCalculator\obj\Debug\ChangeCalculator.pdb
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\ChangeCalculator\obj\Debug\ChangeCalculator.csprojResolveAssemblyReference.cache

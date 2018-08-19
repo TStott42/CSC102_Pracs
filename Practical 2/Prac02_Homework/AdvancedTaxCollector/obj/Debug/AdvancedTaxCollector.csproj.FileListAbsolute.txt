@@ -1,0 +1,14 @@
+G:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Homework\AdvancedTaxCollector\bin\Debug\AdvancedTaxCollector.exe.config
+G:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Homework\AdvancedTaxCollector\bin\Debug\AdvancedTaxCollector.exe
+G:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Homework\AdvancedTaxCollector\bin\Debug\AdvancedTaxCollector.pdb
+G:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Homework\AdvancedTaxCollector\obj\Debug\AdvancedTaxCollector.csprojAssemblyReference.cache
+G:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Homework\AdvancedTaxCollector\obj\Debug\AdvancedTaxCollector.csproj.CoreCompileInputs.cache
+G:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Homework\AdvancedTaxCollector\obj\Debug\AdvancedTaxCollector.exe
+G:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Homework\AdvancedTaxCollector\obj\Debug\AdvancedTaxCollector.pdb
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Homework\AdvancedTaxCollector\bin\Debug\AdvancedTaxCollector.exe.config
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Homework\AdvancedTaxCollector\bin\Debug\AdvancedTaxCollector.exe
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Homework\AdvancedTaxCollector\bin\Debug\AdvancedTaxCollector.pdb
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Homework\AdvancedTaxCollector\obj\Debug\AdvancedTaxCollector.csproj.CoreCompileInputs.cache
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Homework\AdvancedTaxCollector\obj\Debug\AdvancedTaxCollector.exe
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Homework\AdvancedTaxCollector\obj\Debug\AdvancedTaxCollector.pdb
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Homework\AdvancedTaxCollector\obj\Debug\AdvancedTaxCollector.csprojResolveAssemblyReference.cache

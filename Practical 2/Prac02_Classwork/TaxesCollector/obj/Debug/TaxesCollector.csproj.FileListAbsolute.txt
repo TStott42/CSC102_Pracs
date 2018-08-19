@@ -1,0 +1,14 @@
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\TaxesCollector\bin\Debug\TaxesCollector.exe.config
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\TaxesCollector\bin\Debug\TaxesCollector.exe
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\TaxesCollector\bin\Debug\TaxesCollector.pdb
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\TaxesCollector\obj\Debug\TaxesCollector.csproj.CoreCompileInputs.cache
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\TaxesCollector\obj\Debug\TaxesCollector.exe
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\TaxesCollector\obj\Debug\TaxesCollector.pdb
+E:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\TaxesCollector\obj\Debug\TaxesCollector.csprojResolveAssemblyReference.cache
+G:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\TaxesCollector\bin\Debug\TaxesCollector.exe.config
+G:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\TaxesCollector\bin\Debug\TaxesCollector.exe
+G:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\TaxesCollector\bin\Debug\TaxesCollector.pdb
+G:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\TaxesCollector\obj\Debug\TaxesCollector.csprojAssemblyReference.cache
+G:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\TaxesCollector\obj\Debug\TaxesCollector.csproj.CoreCompileInputs.cache
+G:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\TaxesCollector\obj\Debug\TaxesCollector.exe
+G:\Varsity\ComSci\Sem 2\CSC102_Pracs\Prac02_Classwork\TaxesCollector\obj\Debug\TaxesCollector.pdb
